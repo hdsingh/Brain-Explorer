@@ -1,0 +1,11 @@
+name: brain_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bokeh/label/dev::bokeh  
+  - pyviz/label/dev::datashader
+  - pyviz/label/dev::holoviews  
+  - pyviz/label/dev::hvplot  
+  - pyviz/label/dev::panel
+  - pyviz/label/dev::param
