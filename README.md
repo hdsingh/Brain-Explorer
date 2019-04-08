@@ -1,6 +1,6 @@
 # Brain-Explorer
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hdsingh/Brain-Explorer.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hdsingh/Brain-Explorer/master)
 
 This notebook shows 3D visualization of Brain.
 
